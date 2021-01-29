@@ -1,6 +1,10 @@
 package sandwich_factory;
 
 /**
+ * Create 1 Table, 3 Chef, and 1 Agent objects.  
+ * Pass the Chefs and Agent as a Thread argument.
+ * Pass the Table object into all of the Chef and 
+ * Agent objects
  * 
  * @author chase
  *
